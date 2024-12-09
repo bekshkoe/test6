@@ -48,7 +48,6 @@ const duken = {
 
 
 
-
         function changeShopName() {
         const newShopName = prompt("Дүкеннің жаңа атауын енгізіңіз:");
         if (newShopName) {
